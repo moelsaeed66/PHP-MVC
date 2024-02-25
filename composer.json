@@ -1,0 +1,18 @@
+{
+    "name": "dell/cis_mvc",
+    "autoload": {
+        "classmap": [
+            "./"
+        ]
+    },
+    "authors": [
+        {
+            "name": "mohamedelsaeed",
+            "email": "mohamedelsaee66@gmail.com"
+        }
+    ],
+    "require": {
+        "symfony/var-dumper": "^7.0",
+        "ext-pdo": "*"
+    }
+}
